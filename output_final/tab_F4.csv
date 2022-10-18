@@ -1,0 +1,7 @@
+Application Code,Application,Rotemberg Weight,Coefficient
+110,Handling operations/Machine tending,0.194,-0.384
+160,Welding and soldering,0.415,-0.794
+170,Dispensing,0.013,-0.199
+190,Processing,0.018,-1.201
+200,Assembling and disassembling,0.243,-0.095
+900,Others,0.118,0.125

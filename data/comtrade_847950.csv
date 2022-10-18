@@ -1,0 +1,47 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,2363,,922710,,48058437,,,4
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,174191,,44633788,,2207514489,,,4
+H5,2018,2018,2018,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,3546,,,,67532765,,,4
+H5,2018,2018,2018,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,138275,,,,1995891701,,,4
+H4,2012,2012,2012,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,738,,512171,,26253225,,,4
+H4,2012,2012,2012,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,68246,,30767871,,1447594821,,,4
+H4,2013,2013,2013,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,1120,,497520,,25502214,,,4
+H4,2013,2013,2013,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,68912,,26518981,,1247689167,,,4
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,1467,,672014,,33946601,,,4
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,92232,,28312142,,1452402957,,,4
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,1977,,1115419,,58042700,,,4
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,119473,,26689900,,1437439168,,,4
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,1556,,934869,,42027004,,,4
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Machinery and mechanical appliances; industrial robots, n.e.c. or included",5,Number of items,,,108421,,31856754,,1625916008,,,4
+H3,2007,2007,2007,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,1876,,,,21040230,,,0
+H3,2007,2007,2007,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,36115,,,,715838854,,,0
+H3,2008,2008,2008,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,1213,,576386,,33461752,,,4
+H3,2008,2008,2008,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,36852,,16271983,,842185719,,,4
+H3,2009,2009,2009,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,440,,171549,,9151396,,,4
+H3,2009,2009,2009,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,23223,,9378833,,492725223,,,4
+H3,2010,2010,2010,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,896,,436126,,21789635,,,4
+H3,2010,2010,2010,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,55046,,23663557,,1077288273,,,4
+H3,2011,2011,2011,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,734,,337151,,18425473,,,4
+H3,2011,2011,2011,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, not elsewhere specified/incld.",5,Number of items,,,72574,,35265637,,1529557665,,,4
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,559,,483336,,18975594,,,4
+H2,2002,2002,2002,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,18002,,11299888,,397394687,,,4
+H2,2003,2003,2003,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,727,,529838,,22973193,,,4
+H2,2003,2003,2003,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,21558,,13388896,,523846727,,,4
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,768,,407980,,20207569,,,4
+H2,2004,2004,2004,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,30157,,17000112,,779753260,,,4
+H2,2005,2005,2005,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,793,,645210,,22350071,,,6
+H2,2005,2005,2005,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,36046,,24939677,,899324736,,,6
+H2,2006,2006,2006,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,768,,343319,,17004882,,,4
+H2,2006,2006,2006,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, n.e.s. in Ch.84",5,Number of items,,,37465,,18700231,,857733527,,,4
+H1,1996,1996,1996,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,330,,0,,21417568,,,0
+H1,1996,1996,1996,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,10711,,0,,314154281,,,0
+H1,1997,1997,1997,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,518,,0,,26732440,,,0
+H1,1997,1997,1997,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,14420,,0,,409669846,,,0
+H1,1998,1998,1998,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,648,,0,,24789019,,,0
+H1,1998,1998,1998,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,11846,,0,,255746875,,,0
+H1,1999,1999,1999,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,1755,,0,,32813818,,,0
+H1,1999,1999,1999,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,18428,,0,,421116793,,,0
+H1,2000,2000,2000,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,748,,686262,,28259099,,,6
+H1,2000,2000,2000,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,21243,,11293953,,445240670,,,6
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,1071,,831657,,30683198,,,4
+H1,2001,2001,2001,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,847950,"Industrial robots, nes",5,Number of items,,,15332,,8578547,,340525098,,,4

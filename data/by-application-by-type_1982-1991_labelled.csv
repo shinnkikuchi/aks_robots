@@ -1,0 +1,361 @@
+code_union_type,code_union_app,year,quantity,sales.m,share_type,type_name,type_name_eng,name_union,name_union_short,type_code_name_eng,app_code_name_eng
+A,110,1982,356,755.13,0.03073842561686081,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1983,398,1888.933,0.06611284838008151,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1984,479,1224.04,0.03756513455643133,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1985,515,1096.276,0.02684677624332278,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1986,64,455,0.011835089088307972,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1987,6,420,0.010990736379337415,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1988,35,1108,0.02014728611691972,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1989,50,850,0.01280757002727259,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1990,78,1172,0.013723814096183796,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,110,1991,75,2198,0.023420601178488848,マニュアルマニピュレータ,Manual manipulator,Handling operations/Machine tending,Material handling,A_Manual manipulator,110_Handling operations/Machine tending
+A,160,1982,2,13,3.994788828702103e-4,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1983,1,1,2.9996704861970917e-5,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1984,63,175,0.0042024611293357845,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1985,0,0,0,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1986,0,0,0,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1987,0,0,0,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1988,0,0,0,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1989,0,0,0,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1990,10,40,4.2161626595554056e-4,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,160,1991,0,0,0,マニュアルマニピュレータ,Manual manipulator,Welding and soldering,Welding,A_Manual manipulator,160_Welding and soldering
+A,170,1982,8,11.2,0.0014376927085873897,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1983,0,0,0,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1984,2,90,0.009823107660168499,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1985,13,300,0.04750496030960566,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1986,2,12,0.0024906600249066002,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1987,0,0,0,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1988,0,0,0,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1989,0,0,0,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1990,0,0,0,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,170,1991,0,0,0,マニュアルマニピュレータ,Manual manipulator,Dispensing,Dispensing,A_Manual manipulator,170_Dispensing
+A,190,1982,140,119.491,0.008363067619479619,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1983,47,69.76,0.005231949119294815,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1984,41,83.05,0.006061669034038553,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1985,107,185.3,0.010604694806555315,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1986,0,0,0,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1987,7,35,0.0014038183860099471,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1988,0,0,0,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1989,9,99,0.0028287330704611694,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1990,13,474,0.0341843357853743,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,190,1991,14,493,0.03963022508038585,マニュアルマニピュレータ,Manual manipulator,Processing,Processing,A_Manual manipulator,190_Processing
+A,200,1982,144,194.448,0.004213460046854504,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1983,190,433.129,0.006188189752655286,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1984,108,204.85,0.0016502660883885095,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1985,235,445.6,0.0036936736935382483,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1986,0,0,0,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1987,14,61,4.8373922490701896e-4,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1988,16,75,4.347826086956522e-4,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1989,6,46,2.323220589795001e-4,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1990,9,50,2.056572187740362e-4,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,200,1991,34,234,9.712283963940033e-4,マニュアルマニピュレータ,Manual manipulator,Assembling and disassembling,Assembling,A_Manual manipulator,200_Assembling and disassembling
+A,900,1982,429,1131.167,0.1362370709813197,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1983,346,1054.166,0.06793105503707748,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1984,304,1253.505,0.08048844056403455,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1985,164,764.591,0.03740160927625616,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1986,208,940,0.08142758142758143,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1987,39,229,0.019880197933848424,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1988,50,1192,0.06605707952341369,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1989,255,1980,0.10247386398923507,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1990,420,2159,0.118184804028903,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+A,900,1991,302,2927,0.1327437641723356,マニュアルマニピュレータ,Manual manipulator,Others,Others,A_Manual manipulator,900_Others
+B,110,1982,5054,10210.259,0.4156202068523084,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1983,7063,11464.164,0.4012469136472224,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1984,7990,14131.287,0.4336816587779393,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1985,8576,16454.156,0.4029469261433498,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1986,7000,13501,0.3511770061126284,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1987,8094,13510,0.35353535353535354,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1988,11478,18215,0.3312119283571234,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1989,11763,16540,0.24922024500128076,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1990,6588,14163,0.1658450333142074,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,110,1991,7387,19697,0.20987970036974288,固定シーケンスロボット,Fixed sequence robot,Handling operations/Machine tending,Material handling,B_Fixed sequence robot,110_Handling operations/Machine tending
+B,160,1982,0,0,0,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1983,0,0,0,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1984,60,240,0.005763375263089076,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1985,93,289.15,0.005140236276298001,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1986,5,8,1.8094634940740072e-4,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1987,7,5,1.1401208528103979e-4,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1988,0,0,0,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1989,0,0,0,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1990,2,30,3.1621219946665545e-4,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,160,1991,2,30,2.937749096642153e-4,固定シーケンスロボット,Fixed sequence robot,Welding and soldering,Welding,B_Fixed sequence robot,160_Welding and soldering
+B,170,1982,0,0,0,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1983,4,100,0.01235040266017793,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1984,1,1.68,1.8336467632314532e-4,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1985,21,150,0.02375248015480283,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1986,11,88,0.0182648401826484,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1987,10,146,0.030134158926728587,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1988,15,380,0.06703122243781973,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1989,8,8,0.001412928293889085,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1990,8,132,0.015703069236259814,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,170,1991,8,132,0.01363213879995869,固定シーケンスロボット,Fixed sequence robot,Dispensing,Dispensing,B_Fixed sequence robot,170_Dispensing
+B,190,1982,2377,6676.944,0.4673133052989658,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1983,1974,4618.428,0.3463787314668365,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1984,2079,4726.669,0.34499100676038497,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1985,2630,7460.077,0.4269392326951039,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1986,1987,5601,0.2791149648676932,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1987,1860,4361,0.1749157708968394,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1988,1873,4878,0.195660021659781,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1989,2081,7033,0.20095434024801417,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1990,18,101,0.007284004038655705,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,190,1991,149,2369,0.19043408360128616,固定シーケンスロボット,Fixed sequence robot,Processing,Processing,B_Fixed sequence robot,190_Processing
+B,200,1982,738,599.75,0.012995878914162083,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1983,1193,1677.99,0.023973736515121462,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1984,1812,3383.26,0.0272554515313708,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1985,1383,2332.614,0.019335536285859576,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1986,1012,1083,0.010042842040839037,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1987,740,1253,0.009936479488663849,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1988,604,1172,0.006794202898550724,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1989,421,1050,0.005303003520184242,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1990,396,314,0.0012915273339009473,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,200,1991,414,1378,0.00571945611209802,固定シーケンスロボット,Fixed sequence robot,Assembling and disassembling,Assembling,B_Fixed sequence robot,200_Assembling and disassembling
+B,900,1982,466,1231.968,0.14837748260222805,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1983,360,590.55,0.038055377001483745,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1984,339,463.384,0.029754213618872347,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1985,546,2257.745,0.11044244090686517,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1986,133,699,0.060550935550935554,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1987,49,194,0.016841739734351942,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1988,157,1482,0.08212801330008312,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1989,171,1877,0.09714315288272436,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1990,53,996,0.054521567768776,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+B,900,1991,2,54,0.0024489795918367346,固定シーケンスロボット,Fixed sequence robot,Others,Others,B_Fixed sequence robot,900_Others
+C,110,1982,3388,10901.458,0.4437562483921076,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1983,3635,9530.922,0.3335832457309938,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1984,3510,8782.962,0.2695444179389752,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1985,4188,10329.123,0.25295058358548295,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1986,5208,11173,0.29062296787618674,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1987,3420,10016,0.2621028942272466,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1988,4567,15375,0.2795708700790981,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1989,5965,20470,0.3084364217156117,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1990,11216,23888,0.27972224499115916,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,110,1991,9903,20799,0.22162196720263402,可変シーケンスロボット,Variable sequence robot,Handling operations/Machine tending,Material handling,C_Variable sequence robot,110_Handling operations/Machine tending
+C,160,1982,11,81,0.002489060731729772,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1983,1,15,4.499505729295638e-4,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1984,46,286,0.0068680221885144815,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1985,27,130.2,0.0023145729316064317,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1986,0,0,0,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1987,4,60,0.0013681450233724774,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1988,68,640,0.01034811712775074,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1989,299,1019,0.012211197392388073,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1990,294,913,0.009623391270435213,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,160,1991,278,870,0.008519472380262244,可変シーケンスロボット,Variable sequence robot,Welding and soldering,Welding,C_Variable sequence robot,160_Welding and soldering
+C,170,1982,18,1448,0.18587312875308398,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1983,75,3180,0.3927428045936582,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1984,78,3642,0.3975084233148186,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1985,8,126.1,0.019967918316804244,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1986,3,23,0.004773765047737651,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1987,24,129,0.026625386996904025,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1988,4,60,0.010583877227024167,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1989,1,6,0.0010596962204168139,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1990,0,0,0,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,170,1991,11,40,0.004130951151502633,可変シーケンスロボット,Variable sequence robot,Dispensing,Dispensing,C_Variable sequence robot,170_Dispensing
+C,190,1982,488,2326.271,0.1628136150357305,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1983,429,2366.779,0.1775066987473547,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1984,479,2847.776,0.20785401077758184,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1985,390,2413.715,0.13813659430655512,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1986,1222,4528,0.22564409229082574,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1987,1128,3923,0.1573479865233435,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1988,1472,9251,0.37106413701817015,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1989,1070,10215,0.29187382136122064,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1990,17,220,0.01586614741093322,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,190,1991,21,440,0.03536977491961415,可変シーケンスロボット,Variable sequence robot,Processing,Processing,C_Variable sequence robot,190_Processing
+C,200,1982,129,1947.7,0.042204374091060426,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1983,191,1269.906,0.018143369056413824,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1984,453,2162.85,0.017423861407230106,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1985,1329,2193.859,0.01818536641748682,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1986,1445,2595,0.024063873588160017,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1987,1431,2644,0.020967319846789477,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1988,1338,3245,0.01881159420289855,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1989,1748,2847,0.014378715259013844,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1990,370,3182,0.013088025402779663,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,200,1991,380,3331,0.013825477728155662,可変シーケンスロボット,Variable sequence robot,Assembling and disassembling,Assembling,C_Variable sequence robot,200_Assembling and disassembling
+C,900,1982,207,1993.708,0.24012098860029066,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1983,174,2686.187,0.1730994140741421,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1984,189,2118.261,0.13601503352408834,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1985,245,1955.795,0.09567190879104699,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1986,82,670,0.05803880803880804,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1987,81,708,0.06146366872124316,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1988,44,209,0.011582155721806594,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1989,261,4145,0.21452230617948453,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1990,37,1050,0.057477556382745786,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+C,900,1991,59,482,0.021859410430839003,可変シーケンスロボット,Variable sequence robot,Others,Others,C_Variable sequence robot,900_Others
+D,110,1982,256,2080.23,0.08467812842949209,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1983,411,4606.238,0.16121880156499457,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1984,647,5809.304,0.17828444040980257,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1985,619,5389.182,0.13197603823174342,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1986,581,3069,0.07982832618025751,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1987,642,3156,0.08258753336473544,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1988,1063,5129,0.09326302391126466,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1989,2213,14206,0.21405216447933462,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1990,3344,24668,0.2888558414032951,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,110,1991,4734,31642,0.3371586271563895,プレイバックロボット,Playback robot,Handling operations/Machine tending,Material handling,D_Playback robot,110_Handling operations/Machine tending
+D,160,1982,3717,31419.596,0.9654973161779483,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1983,4415,33039.395,0.9910729806330775,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1984,5487,40349.723,0.9689608142112346,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1985,7445,54082.962,0.9614359439807931,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1986,6749,42976,0.9720437890165566,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1987,7024,43144,0.9837874814730362,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1988,10143,60500,0.9782204472326871,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1989,13593,79080,0.9476560253091746,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1990,14175,86745,0.9143275747578341,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,160,1991,14850,91468,0.8957001145722148,プレイバックロボット,Playback robot,Welding and soldering,Welding,D_Playback robot,160_Welding and soldering
+D,170,1982,548,6328.06,0.8123040822770999,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1983,431,4816.902,0.5949067927461639,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1984,483,5343.19,0.5831858957637303,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1985,495,5394.2,0.8541708563402495,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1986,422,4679,0.9711498547114985,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1987,465,4498,0.9283797729618163,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1988,631,5162,0.9105662374316458,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1989,675,5579,0.9853408689509008,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1990,954,8274,0.9842969307637401,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,170,1991,1038,9511,0.9822369100485386,プレイバックロボット,Playback robot,Dispensing,Dispensing,D_Playback robot,170_Dispensing
+D,190,1982,659,3505.094,0.24531837656921687,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1983,559,3426.328,0.2569721009463183,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1984,406,3057.96,0.22319496013640616,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1985,499,3194.699,0.18283220665843206,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1986,418,2650,0.13205760701649474,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1987,644,4406,0.17672068025028076,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1988,773,5138,0.20608880510208175,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1989,1158,10389,0.29684553403051606,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1990,523,5294,0.38179720178854754,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,190,1991,673,6977,0.5608520900321543,プレイバックロボット,Playback robot,Processing,Processing,D_Playback robot,190_Processing
+D,200,1982,546,3035.51,0.06577594064648296,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1983,1048,5699.124,0.08142438104101042,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1984,2252,9611.816,0.07743253108435484,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1985,2940,13060.104,0.10825799501722093,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1986,3137,17831,0.16534987666685214,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1987,3048,11610,0.09206905575689328,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1988,2733,10404,0.06031304347826087,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1989,4872,18594,0.09390861662314837,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1990,5637,18472,0.07597800290387993,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,200,1991,4598,14735,0.06115833513190444,プレイバックロボット,Playback robot,Assembling and disassembling,Assembling,D_Playback robot,200_Assembling and disassembling
+D,900,1982,411,3583.684,0.4316167387155211,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1983,1101,10281.033,0.6625155986448149,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1984,1289,10094.877,0.6481991754446447,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1985,2040,10993.074,0.5377498015186818,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1986,1227,6971,0.6038634788634789,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1987,1219,7495,0.6506641201493185,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1988,1273,7244,0.40144084233859795,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1989,537,2435,0.12602215091605423,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1990,1042,3832,0.20976571053207796,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+D,900,1991,373,1905,0.08639455782312926,プレイバックロボット,Playback robot,Others,Others,D_Playback robot,900_Others
+E,110,1982,64,330.643,0.01345919942425239,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1983,123,643.608,0.022526345889561723,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1984,463,2177.877,0.06683788320018708,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1985,715,5359.312,0.13124454980511724,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1986,859,6471,0.16831837690206788,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1987,967,7274,0.1903490867221437,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1988,1418,10190,0.18528957177925265,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1989,2079,9849,0.1484020672924797,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1990,2721,12819,0.15010714411175774,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,110,1991,3177,17603,0.18756726230433995,数値制御ロボット,Numerical control robot,Handling operations/Machine tending,Material handling,E_Numerical control robot,110_Handling operations/Machine tending
+E,160,1982,4,45,0.001382811517627651,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1983,10,47.3,0.0014188441399712243,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1984,61,426.62,0.010244879811412757,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1985,186,1405.411,0.024984072645022483,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1986,4,12,2.7141952411110105e-4,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1987,17,251,0.005723406681108197,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1988,108,486,0.007858101443885717,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1989,52,992,0.011887642603777202,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1990,321,4410,0.046483193321598344,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,160,1991,437,6332,0.06200609093312704,数値制御ロボット,Numerical control robot,Welding and soldering,Welding,E_Numerical control robot,160_Welding and soldering
+E,170,1982,1,3,3.8509626122876516e-4,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1983,0,0,0,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1984,9,79.2,0.00864433474094828,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1985,50,344.83,0.05460378487853773,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1986,3,16,0.0033208800332088003,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1987,3,72,0.014860681114551083,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1988,12,67,0.01181866290351032,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1989,17,69,0.012186506534793359,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1990,0,0,0,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,170,1991,0,0,0,数値制御ロボット,Numerical control robot,Dispensing,Dispensing,E_Numerical control robot,170_Dispensing
+E,190,1982,318,1651.539,0.1155897292114699,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1983,484,2842.168,0.2131605270138748,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1984,500,2935.392,0.21424894387916307,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1985,611,4219.602,0.2414872715333536,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1986,669,6005,0.29924752080530226,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1987,975,11272,0.45210973848868924,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1988,1179,5645,0.22642493281456821,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1989,1635,7108,0.2030973198468484,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1990,751,7777,0.5608683109764893,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,190,1991,105,1877,0.15088424437299036,数値制御ロボット,Numerical control robot,Processing,Processing,E_Numerical control robot,190_Processing
+E,200,1982,1502,22969.757,0.4977276876360599,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1983,3040,42683.528,0.6098270274601215,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1984,6266,78141.452,0.6295054348696044,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1985,7339,78596.555,0.6515036526172173,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1986,7124,67214,0.6232867820248892,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1987,8476,86451,0.6855695038104377,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1988,12465,116818,0.6772057971014492,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1989,13204,107392,0.5423810990853581,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1990,21555,171883,0.7069795946907532,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,200,1991,17673,144868,0.6012816894393439,数値制御ロボット,Numerical control robot,Assembling and disassembling,Assembling,E_Numerical control robot,200_Assembling and disassembling
+E,900,1982,92,358.404,0.04316596151407256,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1983,166,906.239,0.0583985552424818,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1984,399,1539.7,0.09886522346256615,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1985,1396,4254.205,0.2081035654239918,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1986,277,2020,0.17498267498267497,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1987,282,1852,0.1607778452990711,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1988,519,7758,0.42992518703241894,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1989,548,8788,0.45481834178656455,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1990,593,9869,0.5402342894679221,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+E,900,1991,1226,16501,0.748344671201814,数値制御ロボット,Numerical control robot,Others,Others,E_Numerical control robot,900_Others
+F,110,1982,34,288.6,0.011747791284978786,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1983,76,437.48,0.015311844787146003,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1984,102,459,0.014086465116664473,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1985,296,2206.5,0.054035125990983764,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1986,313,3776,0.09821823384055144,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1987,363,3838,0.10043439577118334,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1988,387,4978,0.09051731975634149,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1989,400,4452,0.06708153148402067,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1990,385,8689,0.10174592208339676,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,110,1991,160,1910,0.020351841788404778,知能ロボット,SAL control robot,Handling operations/Machine tending,Material handling,F_SAL control robot,110_Handling operations/Machine tending
+F,160,1982,51,983.8,0.030231332689824066,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1983,12,234.3,0.007028227949159786,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1984,21,164.922,0.003960447396413235,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1985,54,344.555,0.006125174166279986,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1986,103,1216,0.02750384510992491,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1987,72,395,0.009006954737202144,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1988,21,221,0.0035733341956764274,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1989,118,2357,0.028245134694660147,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1990,239,2735,0.028828012184710088,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,160,1991,222,3419,0.03348054720473174,知能ロボット,SAL control robot,Welding and soldering,Welding,F_SAL control robot,160_Welding and soldering
+F,170,1982,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1983,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1984,1,6,6.548738440112333e-4,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1985,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1986,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1987,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1988,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1989,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1990,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,170,1991,0,0,0,知能ロボット,SAL control robot,Dispensing,Dispensing,F_SAL control robot,170_Dispensing
+F,190,1982,2,8.6,6.019062651373301e-4,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1983,1,10,7.49992706320931e-4,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1984,5,50,0.003649409412425378,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1985,0,0,0,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1986,105,1283,0.06393581501968405,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1987,85,935,0.03750200545483716,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1988,2,19,7.62103405398901e-4,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1989,54,154,0.0044002514429395964,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1990,0,0,0,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,190,1991,10,284,0.02282958199356913,知能ロボット,SAL control robot,Processing,Processing,F_SAL control robot,190_Processing
+F,200,1982,1789,17402.08,0.37708265866538015,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1983,2198,18229.167,0.26044329617467754,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1984,3567,30627.269,0.24673245501905128,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1985,2572,24009.97,0.19902377596867715,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1986,1741,19115,0.17725662567925962,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1987,2011,24082,0.1909739018723087,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1988,3201,40786,0.23644057971014493,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1989,5176,68072,0.3437962434533159,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1990,2993,49222,0.20245719244991217,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,200,1991,4520,76386,0.317043813192104,知能ロボット,SAL control robot,Assembling and disassembling,Assembling,F_SAL control robot,200_Assembling and disassembling
+F,900,1982,1,4,4.81757586567924e-4,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1983,0,0,0,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1984,2,104,0.006677913385793908,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1985,20,217.32,0.01063067408315817,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1986,19,244,0.021136521136521137,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1987,117,1041,0.09037242816216685,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1988,15,160,0.00886672208367969,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1989,10,97,0.005020184245937274,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1990,33,362,0.019816071819575214,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others
+F,900,1991,22,181,0.008208616780045351,知能ロボット,SAL control robot,Others,Others,F_SAL control robot,900_Others

@@ -56,8 +56,10 @@ Furthermore, the following datasets based on proprietary data are needed to run 
 - `JARA_ESS_it_by_a.csv`: Data that match the above JARA data and employment statistics. Employment statistics are available from the [Employment Status Survey](https://www.stat.go.jp/english/data/shugyou/index.html) (ESS).
 - `JARA_ESS_ct.csv`, `ESS_cit_d.csv`, `ESS_cit.csv`: Commuting zone level data of robots and employment. The employment data are based on the ESS.
 - `ifr/industry_000 - All Industries.xlsx`: Robot operational stock data from the [International Federation of Robotics](https://ifr.org/) (IFR).
-- `soba/MP_by_industry.csv`: Multinational production (MP) data compiled from the [Basic Survey on Overseas Business Activities](https://www.meti.go.jp/english/statistics/tyo/kaigaizi/index.html).
+- `soba/MP_by_industry.csv`: Multinational production (MP) data compiled from the [Basic Survey on Overseas Business Activities](https://www.meti.go.jp/english/statistics/tyo/kaigaizi/index.html) (BSOBA).
+
+ESS and BSOBA are government statistics and available with the permission of [Japan Statistics Bureau](https://www.stat.go.jp/english/) and [Ministry of Economy, Trade and Industry](https://www.meti.go.jp/english/) (METI). There is a portal website called [miripo](https://www.e-stat.go.jp/microdata/) that summarizes the use of these statistics. 
 
 ## Contact
 
-If you have any problems in running the code, please report [issues](https://github.com/daisukeadachi/aks_robots/issues).
+If you have any problems or questions, please report [issues](https://github.com/daisukeadachi/aks_robots/issues).

@@ -1,4 +1,6 @@
-# Replication package for Adachi, Kawaguchi, and Saito (2022) "Robots and Employment: Evidence from Japan, 1978-2017."
+# Replication package for Adachi, Kawaguchi, and Saito (2022)
+
+Please cite Adachi, Kawaguchi, and Saito (2022) "Robots and Employment: Evidence from Japan, 1978-2017" when using our data.
 
 ## How to replicate
 
@@ -6,7 +8,31 @@ After preparing data, please open `aks_robots.Rproj` and run `codes/MASTER_repli
 
 ## Data
 
-We have included the following datasets under `data/`
+### Main robot data 
+
+`data/by-industry_by-application_1978-2017_labelled_prices.csv` is the main data file that summarizes the number and value of robot shipments by industry, application, and year. It contains the following variables:
+
+- code_union: industry code
+- code_union_app: application code
+- year: calendar year
+- ind_union: industry name in Japanese
+- ind_union_eng: industry name in English
+- name_union: application name in Japanese
+- app_code_name_eng: application name in English
+- quantity: quantity
+- sales.m: sales in current million JPY
+- quantity_t: quantity in thousand units
+- sales_b: sales in current billion JPY 
+- unitval_m: unit value in current million JPY (sales.m/quantity)
+- q_indagg: quantity aggregated at the industry-year level
+- pq_indagg: sales aggregated at the industry-year level	
+- q_indagg_loo: leave-one-application-out quantity aggregated at the industry-year level 
+- pq_indagg_loo: leave-one-application-out sales aggregated at the industry-year level 	
+- p_indagg_loo: leave-one-application-out price (unit value) aggregated at the industry-year level
+
+### Other data
+
+In addition to these, we have included the following datasets under `data/` that are called in the replication files.
 
 - `by-industry_by-application_1978-2017.csv`: Raw Japanese robot adoption data file between 1978 and 2017.
 - `by-industry_by-application_1978-2017_labelled_prices_5year.csv`: 5-year aggregated robot data file.

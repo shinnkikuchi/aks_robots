@@ -51,7 +51,7 @@ In addition to these, we have included the following datasets under `data/` that
 - `comtrade_847950.csv`: The [Comtrade](https://comtrade.un.org/) data of industrial robots (HS code = 847950).
 - `exrate/AEXJPUS.csv`: The exchange rate trend taken from the [Federal Reserve Economic Data](https://fred.stlouisfed.org/) (FRED).
 
-In addition to these data sources, the following datasets based on proprietary data are needed to run the codes.
+Furthermore, the following datasets based on proprietary data are needed to run the codes.
 
 - `JARA_ESS_it_by_a.csv`: Data that match the above JARA data and employment statistics. Employment statistics are available from the [Employment Status Survey](https://www.stat.go.jp/english/data/shugyou/index.html) (ESS).
 - `JARA_ESS_ct.csv`, `ESS_cit_d.csv`, `ESS_cit.csv`: Commuting zone level data of robots and employment. The employment data are based on the ESS.
